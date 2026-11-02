@@ -985,7 +985,7 @@ export default function App() {
       <footer className="w-full bg-background py-8 relative z-10 transition-colors duration-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-12 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-on-surface-variant">
           <div>
-            © 2025 {personal.name} • Computer Science & Engineering
+            © Built by S HARI SHANKAR • Computer Science & Engineering
           </div>
           <div className="flex items-center gap-6">
             <a className="hover:text-primary transition-colors" href={personal.github} rel="noreferrer" target="_blank">
