@@ -16,7 +16,7 @@ All personal information, educational milestones, internships, technical project
 - **Build Tooling:** Vite 6
 - **Styling:** Tailwind CSS, Google Fonts (Geist, Inter, JetBrains Mono), Google Material Symbols
 - **Icons:** Material Symbols Outlined & Vector SVGs
-- **Form Forwarding:** Automated inbox routing via FormSubmit AJAX to `harishankarism@gmail.com` with client-side fallback
+- **Form Forwarding:** Automated inbox routing via Web3Forms API directly to `harishankarism@gmail.com`
 
 ---
 
